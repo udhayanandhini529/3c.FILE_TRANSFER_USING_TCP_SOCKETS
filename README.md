@@ -52,8 +52,8 @@ while True:
     print('Done sending')
     conn.send('Thank you for connecting'.encode())
     conn.close()
-    ```
-    
+ ```
+
 ## OUPUT
 ![alt text](image.png)
 ![alt text](image-1.png)
